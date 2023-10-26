@@ -3,9 +3,6 @@ Certainly, here's a README file for your Raycasting project on GitHub:
 
 Raycasting is a simple raycasting simulation implemented in Python using the Pygame library. It generates a 2D environment with walls and demonstrates the concept of raycasting, a technique often used in computer graphics and game development.
 
-![Raycasting Screenshot](raycasting.png)
-
-
 ![2 4](https://user-images.githubusercontent.com/95425179/167841713-9922fc85-a77a-4558-a351-02145b4fe5b6.gif)
 
 ## Table of Contents
